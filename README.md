@@ -9,4 +9,3 @@ The input data should be a tab-separated text file containing three columns: pos
 The example data is Hi-C result of gm12878 chromosme 21, sourced from Rao et al., 2014.
 
 ## Run the modules
-
